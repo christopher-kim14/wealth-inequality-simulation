@@ -56,7 +56,7 @@ where _x_ is the user-specified divisor. This type of taxation simulates a cycli
 
 
 
-### 4. Euclidean/Division Algorithm
+### 4. Number Theory: Euclidean/Division Algorithm
 The division algorithm states that for integers _m_, _n_, there exist unique integers _q_ and _r_ such that:
 
 $$
