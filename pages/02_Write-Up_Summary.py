@@ -25,6 +25,17 @@ This simulation allows users to:
 
 ---
 
+## Motivations
+Attending the Claremont Colleges has made me more aware of the economic disparities that exist both within and beyond campus. Conversations around privilege, fairness, and access have pushed me to think more deeply about the systems that create and sustain inequality. 
+In particular, I’ve become interested in how wealth is generated, distributed, and often concentrated in the hands of a few. 
+In today’s world where the top 1% of earners control a disproportionate amount of global wealth, understanding the mathematical mechanisms behind this phenomenon seems more and more important.
+
+This project was motivated by a desire to examine how different economic policies like taxation and redistribution can shape outcomes across a population. I was curious to see how these politically controversial tools could be modeled and analyzed with math. 
+Math seemed like a good way to explore this issue through a neutral, analytical lens. By building a simulation grounded in counting and number theory, I could visualize and quantify how policy changes might influence wealth inequality.
+
+---
+
+
 ## Discrete Mathematics Concepts Used
 
 ### 1. Counting: Stars and Bars
