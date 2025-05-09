@@ -57,13 +57,14 @@ In discrete math, a function is a rule that assigns each element in a domain (in
 These are all examples of maps/relations. Each round updates these mappings as wealth and tax values change, showing how these mathematical functions evolve over time.
 
 ### 3. Number Theory: Modulo Arithmetic
+Modulo arithmetic is a system of arithmetic where numbers wrap around after reaching a certain value called the modulus, essentially calculating the remainder when one number is divided by another. 
 I used modular arithmetic to implement the Modulo Tax, where a player's tax is computed as:
 
 $$
 \\text{Tax} = \\text{Wealth} \\bmod x
 $$
 
-where _x_ is the user-specified divisor. This type of taxation simulates a cyclical/leftover-based taxation system. Thus, modular arithmetic allows us to group players by wealth residue classes and apply taxes in a mathematically cyclical way.
+where _x_ is the user-specified modulus. This type of taxation simulates a cyclical/leftover-based taxation system. Thus, modular arithmetic allows us to group players by wealth residue classes and apply taxes in a mathematically cyclical way.
 
 
 
